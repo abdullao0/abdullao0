@@ -1,14 +1,12 @@
 <div align="center">
   <h1>Abdullah T. Abakar</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=720&lines=Backend+Developer;Cloud+%26+DevOps+Engineer;Laravel+%7C+Docker+%7C+Nginx+%7C+Cloud" alt="Animated typing intro" />
-  <p><b>Backend Developer | Cloud & DevOps Engineer</b></p>
   <p>Architecting scalable backend systems, deploying resilient cloud infrastructure, and automating deployment pipelines.</p>
   <p>I am active on LinkedIn and open to professional conversations.</p>
   <p>
     <a href="https://github.com/abdullao0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/abdullah-abakar-641a43236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
-  <p><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdullah-abakar-641a43236/">linkedin.com/in/abdullah-abakar-641a43236</a></p>
   <img src="https://komarev.com/ghpvc/?username=abdullao0&style=flat-square&color=0A66C2" alt="Profile views" />
 </div>
 
@@ -91,15 +89,6 @@ graph LR
 Code changes trigger automated checks, build a Docker image, and deploy the application to a cloud server behind Nginx and Cloudflare.
 
 </details>
-
----
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullao0&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullao0&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
-</div>
 
 ---
 
