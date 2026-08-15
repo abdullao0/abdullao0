@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Abdullah T. Abakar</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=720&lines=Backend+Developer;Cloud+%26+DevOps+Engineer;Laravel+%7C+Docker+%7C+Nginx+%7C+Cloud" alt="Animated typing intro" />
   <p><b>Backend Developer | Cloud & DevOps Engineer</b></p>
   <p>Architecting scalable backend systems, deploying resilient cloud infrastructure, and automating deployment pipelines.</p>
   <p>I am active on LinkedIn and open to professional conversations.</p>
@@ -8,6 +9,7 @@
     <a href="https://www.linkedin.com/in/abdullah-abakar-641a43236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
   <p><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdullah-abakar-641a43236/">linkedin.com/in/abdullah-abakar-641a43236</a></p>
+  <img src="https://komarev.com/ghpvc/?username=abdullao0&style=flat-square&color=0A66C2" alt="Profile views" />
 </div>
 
 ---
@@ -27,16 +29,36 @@ I have also contributed to additional private projects governed by non-disclosur
 I focus on tools that enable reliable backend logic, secure deployments, and high-performance infrastructure.
 
 **Backend Engineering**
-`PHP` `Laravel` `RESTful APIs` `Authentication & Authorization` `Database Architecture`
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="RESTful APIs" />
+  <img src="https://img.shields.io/badge/Authentication-4A5568?style=flat-square&logo=auth0&logoColor=white" alt="Authentication and Authorization" />
+  <img src="https://img.shields.io/badge/Database_Architecture-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Database Architecture" />
+</p>
 
 **Cloud Infrastructure**
-`AWS` `Oracle Cloud (OCI)` `DigitalOcean` `Cloudflare`
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
 
 **DevOps & Deployment**
-`Docker` `Nginx` `GitHub Actions` `CI/CD` `Git`
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/CI%2FCD-4A5568?style=flat-square&logo=github&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
 **Architecture & Scalability**
-`Cloud Architecture` `Infrastructure Design`
+<p>
+  <img src="https://img.shields.io/badge/Cloud_Architecture-527FFF?style=flat-square&logo=icloud&logoColor=white" alt="Cloud Architecture" />
+  <img src="https://img.shields.io/badge/Infrastructure_Design-4A5568?style=flat-square&logo=terraform&logoColor=white" alt="Infrastructure Design" />
+</p>
 
 ---
 
@@ -62,6 +84,22 @@ graph LR
     style D fill:#FF9900,stroke:#none,color:#fff
     style E fill:#F38020,stroke:#none,color:#fff
 ```
+
+<details>
+<summary><b>How this pipeline works</b></summary>
+
+Code changes trigger automated checks, build a Docker image, and deploy the application to a cloud server behind Nginx and Cloudflare.
+
+</details>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullao0&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullao0&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
+</div>
 
 ---
 
