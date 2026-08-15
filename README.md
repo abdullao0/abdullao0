@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Abdullah T. Abakar</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=1800&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=720&lines=Abdullah+T.+Abakar" alt="Abdullah T. Abakar" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=720&lines=Backend+Developer;Cloud+%26+DevOps+Engineer;Laravel+%7C+Docker+%7C+Nginx+%7C+Cloud" alt="Animated typing intro" />
   <p>Architecting scalable backend systems, deploying resilient cloud infrastructure, and automating deployment pipelines.</p>
   <p>I am active on LinkedIn and open to professional conversations.</p>
