@@ -1,9 +1,16 @@
 <div align="center">
-  <h1>Abdullah Abakar</h1>
+  <h1>Abdullah T. Abakar</h1>
   <p><b>Backend Developer | Cloud & DevOps Engineer</b></p>
   <p>Architecting scalable backend systems, deploying resilient cloud infrastructure, and automating deployment pipelines.</p>
   <p>I am active on LinkedIn and open to professional conversations.</p>
-  
+  <p>
+    <a href="https://github.com/abdullao0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/abdullah-abakar-641a43236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
+  <p><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdullah-abakar-641a43236/">linkedin.com/in/abdullah-abakar-641a43236</a></p>
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -26,10 +33,10 @@ I focus on tools that enable reliable backend logic, secure deployments, and hig
 `AWS` `Oracle Cloud (OCI)` `DigitalOcean` `Cloudflare`
 
 **DevOps & Deployment**
-`Docker` `Nginx` `GitHub Actions` `CI/CD` `Git` `Linux Server Administration`
+`Docker` `Nginx` `GitHub Actions` `CI/CD` `Git`
 
 **Architecture & Scalability**
-`Cloud Architecture` `Infrastructure Design` `System Security` `Performance Optimization`
+`Cloud Architecture` `Infrastructure Design`
 
 ---
 
