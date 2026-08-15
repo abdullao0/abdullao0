@@ -1,20 +1,17 @@
 <div align="center">
-  <h1>Abdulla</h1>
+  <h1>Abdullah Abakar</h1>
   <p><b>Backend Developer | Cloud & DevOps Engineer</b></p>
   <p>Architecting scalable backend systems, deploying resilient cloud infrastructure, and automating deployment pipelines.</p>
+  <p>I am active on LinkedIn and open to professional conversations.</p>
   
-  <p>
-    <a href="https://github.com/abdullao0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-</div>
-
----
 
 ## 👨‍💻 About Me
 
 I specialize in building robust server-side applications and the infrastructure required to run them reliably in production. My focus lies at the intersection of **Backend Development** and **Cloud/DevOps Engineering**, where I design APIs, optimize database architecture, configure Linux environments, and build automated CI/CD pipelines. 
 
 My goal is to create systems that are not only functionally complete but also highly available, secure, and easily deployable.
+
+I have also contributed to additional private projects governed by non-disclosure agreements (NDAs). While I cannot share specifics publicly, I can discuss relevant experience privately upon request.
 
 ---
 
