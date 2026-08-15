@@ -31,6 +31,7 @@ I focus on tools that enable reliable backend logic, secure deployments, and hig
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="RESTful APIs" />
+  <img src="https://img.shields.io/badge/xAPI-4A5568?style=flat-square&logo=bookstack&logoColor=white" alt="xAPI" />
   <img src="https://img.shields.io/badge/Authentication-4A5568?style=flat-square&logo=auth0&logoColor=white" alt="Authentication and Authorization" />
   <img src="https://img.shields.io/badge/Database_Architecture-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Database Architecture" />
 </p>
@@ -41,6 +42,7 @@ I focus on tools that enable reliable backend logic, secure deployments, and hig
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
 **DevOps & Deployment**
